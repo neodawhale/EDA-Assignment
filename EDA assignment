@@ -1,0 +1,10 @@
+Suppose that you are given a dataset of customer product reviews for an e-commerce company. Each review is scored as a Likert-style 
+survey item where 1 indicates a negative sentiment about the product and a 5 is positive. These reviews are collected on the company's
+website. a. What problems do you expect to find in the raw data? b. If your task is to build features that give information about 
+customer sentiments, how would you approach this task and what kind of methods would you apply to accomplish it?
+
+A. I expect little to none null values in the data. 
+
+B. If I am building a feature that gives information about customer setiments, I would create a negative, neutral and positive scale.
+Negative will be a red frowny face, neutral will be a yellow chilling facial expression emoji, and positive will be a green smiling emoji.
+Customers will choose one of the emojis to represent their satisfactory rate and give a short analysis review afterwards.
